@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>HotItemAna</artifactId>
+    <artifactId>NetWorkFlow</artifactId>
 
-<dependencies>
-    <dependency>
-        <groupId>org.apache.flink</groupId>
-        <artifactId>flink-table-planner-blink_${scala.binary.version}</artifactId>
-        <version>${flink.version}</version>
-    </dependency>
-</dependencies>
+
 </project>
